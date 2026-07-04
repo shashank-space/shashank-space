@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Shashank
+# Hi 👋, I'm Shashank Shekhar Prakash
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Web+Developer;Frontend+Developer;Java+Developer;React+Enthusiast;Daily+LeetCode+Solver;Always+Learning+New+Things!" />
 
