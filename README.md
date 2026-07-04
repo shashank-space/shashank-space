@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shashank
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Java+Developer;React+Enthusiast;Daily+LeetCode+Solver;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Web+Developer;Frontend+Developer;Java+Developer;React+Enthusiast;Daily+LeetCode+Solver;Always+Learning+New+Things!" />
 
 <p>
   <a href="https://www.linkedin.com/in/shashank-shekhar-prakash-378789324">
@@ -26,7 +26,7 @@
 
 ## 💫 About Me
 
-💻 Passionate Frontend Developer who enjoys building responsive and user-friendly web applications.
+💻 Passionate Web Developer who enjoys building responsive and user-friendly web applications.
 
 🚀 Solving **LeetCode problems daily** using Java.
 
