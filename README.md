@@ -63,18 +63,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shashank-space&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-space&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -238,6 +226,6 @@ https://shashank-space.github.io/Advanced-Portfolio-with-CSS-Grid/
 
 ### ⭐ Thank you for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
 </div>
